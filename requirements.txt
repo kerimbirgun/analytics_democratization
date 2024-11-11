@@ -1,0 +1,7 @@
+numpy
+pandas
+pyodbc
+google-generativeai
+ipywidgets
+openpyxl
+voila
